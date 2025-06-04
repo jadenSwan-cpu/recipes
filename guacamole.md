@@ -1,6 +1,7 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lime 
-* salt
+* avocado - $0.99/lb
+* lime - $0.49/lb
+* salt - $1.99/lb
 ## Instructions
+
